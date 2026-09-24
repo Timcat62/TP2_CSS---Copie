@@ -9,46 +9,15 @@
 	text-align:center;
 	line-height:50px;
 	}
-#menu {
-	float:left;
-	width:150px;
-	height:400px;
-	background-color:#fa5c91;
-	}
-#menuhaut {
-    float:left;
-	width:150px;
-	height:200px;
-	background-color:#72b352;
-	text-align:center;
-	line-height:200px;
-	}
-#menubas {
-    float:left;
-	width:150px;
-	height:200px;
-	background-color:#db43fa;
-	text-align:center;
-	line-height:200px;
-	}
-
 #contenu {
 	width:600px;
 	height:400px;
 	background-color:yellow;
 	text-align:center;
 	}
-p {
-	margin: 0;
+#titre-contenu {
+	line-height:400px;
 }
-#blocnews {
-	float:right;
-    width:150px ; 
-    height:150px;
-    background-color: red;
-	text-align:center;
-	line-height:150px;
-	}
 #piedpage {
 	width:600px;
 	height:100px;
