@@ -2,22 +2,27 @@
 	color: blue;
 	font-size: 20px;
 }
+
 .texterouge {
 	color: red;
 	font-size: 30px;
 }
+
 .tableau {
 	border-collapse: collapse;
+	margin-bottom: 10px;
 }
+
 .tableau td {
 	border: 1px solid black;
 	color: green;
 	font-size: 15px;
-	padding: 8px;
 }
+
 .tableau-milieu td {
 	color: blue;
 }
+
 .entre-tableaux {
 	color: red;
 }
